@@ -1,0 +1,58 @@
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\bin\Release\Modelos.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\bin\Release\Modelos.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Bolinha.Properties.Resources.resources
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Modelos.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Modelos.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\bin\Release\Modelos.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\bin\Release\Modelos.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Bolinha.Form1.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Bolinha.Properties.Resources.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Modelos.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Modelos.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\bin\Release\Modelos.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\bin\Release\Modelos.application
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Modelos.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Modelos\obj\x86\Release\Modelos.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\bin\Release\Modelos.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\bin\Release\Modelos.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\bin\Release\Modelos.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\bin\Release\Modelos.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\Bolinha.Form1.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\Bolinha.Properties.Resources.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\Modelos.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\Modelos.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\Modelos.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Modelos\obj\x86\Release\Modelos.pdb
+C:\FILE\PROJETOS\bolinhas\Modelos\bin\Release\Modelos.exe.manifest
+C:\FILE\PROJETOS\bolinhas\Modelos\bin\Release\Modelos.application
+C:\FILE\PROJETOS\bolinhas\Modelos\bin\Release\Modelos.exe
+C:\FILE\PROJETOS\bolinhas\Modelos\bin\Release\Modelos.pdb
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\Bolinha.Form1.resources
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\Bolinha.Properties.Resources.resources
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\Modelos.exe.manifest
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\Modelos.application
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\Modelos.exe
+C:\FILE\PROJETOS\bolinhas\Modelos\obj\x86\Release\Modelos.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\bin\Release\Modelos.exe.manifest
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\bin\Release\Modelos.application
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\bin\Release\Modelos.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\bin\Release\Modelos.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\obj\x86\Release\Bolinha.Form1.resources
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\obj\x86\Release\Bolinha.Properties.Resources.resources
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\obj\x86\Release\Modelos.csproj.GenerateResource.Cache
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\obj\x86\Release\Modelos.exe.manifest
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\obj\x86\Release\Modelos.application
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\obj\x86\Release\Modelos.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Modelos\obj\x86\Release\Modelos.pdb

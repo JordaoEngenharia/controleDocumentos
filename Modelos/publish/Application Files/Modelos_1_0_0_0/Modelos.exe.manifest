@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Modelos.exe" version="1.0.0.0" publicKeyToken="32c948ca0664d4a3" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Modelos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Modelos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Modelos.exe" size="8704">
+      <assemblyIdentity name="Modelos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>H6wtvR+6l2SSUDtO/ixmSJEZN0k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=zetti\suporte" issuerKeyHash="fb03d3dc6696745602cac362f85ac8da49909aec" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>wwJ13Rb+UOWzuEqlJjwh1FH+mI4=</DigestValue></Reference></SignedInfo><SignatureValue>FSueYWgPevzEBPaJAY/BlI8HROzudwCoj2AZcgKcNdHd8qzTzgmNCRsklHs7l0RepdSkkp77U7aQklVZBv/h8wfBX/Hgao8v5PeKJUfh3i3s7bRjIja6YZAdFXgCnzUfWm+mf54Dbpsfgjx2yTh5P2te5XHXPa/8mCloRYQRaM4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ul+DDyNiU6e6V/pA6y2QU+UCHDz+eVBjxLoIw3kW/SDDx00VCGQEt6p+bpb56YREISF3jQlClFEMdt9H6K2or8cCvyXnCg6gQ/4zZJGFpeBHez2CQH+dowSxhW2zejy1ltS8nFRPE9JKaLSPi50DB/qzYq3gOrOGLeIFsP1B2mc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8e98fe51d4213c26a54ab8b3e550fe16dd7502c3" Description="" Url=""><as:assemblyIdentity name="Modelos.exe" version="1.0.0.0" publicKeyToken="32c948ca0664d4a3" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=zetti\suporte</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>UC5Fe6pTUbnRbmnBodDQntjl/Lg=</DigestValue></Reference></SignedInfo><SignatureValue>fL9djC59AuqmzRVMJbzruWClDpliih9APmW5JzKRH5UA71M26NMvf2Bnr70OOAph4hKcKr95rUJsglwu3Ey1K3W9uPG8UJJU0mtr7ThX9b2vBTSBXW0W1cE1M2bD8r7QruYels43vFK6Sx9AUCXiB7JQ9I0LamAxQj4aloDaiC8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ul+DDyNiU6e6V/pA6y2QU+UCHDz+eVBjxLoIw3kW/SDDx00VCGQEt6p+bpb56YREISF3jQlClFEMdt9H6K2or8cCvyXnCg6gQ/4zZJGFpeBHez2CQH+dowSxhW2zejy1ltS8nFRPE9JKaLSPi50DB/qzYq3gOrOGLeIFsP1B2mc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQfiRAm0RjoZBGKZYO4UfFqTANBgkqhkiG9w0BAQUFADAlMSMwIQYDVQQDHhoAegBlAHQAdABpAFwAcwB1AHAAbwByAHQAZTAeFw0xMTA5MDkyMDMxNTBaFw0xMjA5MDkwMjMxNTBaMCUxIzAhBgNVBAMeGgB6AGUAdAB0AGkAXABzAHUAcABvAHIAdABlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6X4MPI2JTp7pX+kDrLZBT5QIcPP55UGPEugjDeRb9IMPHTRUIZAS3qn5ulvnphEQhIXeNCUKUUQx230foraivxwK/JecKDqBD/jNkkYWl4Ed7PYJAf52jBLGFbbN6PLWW1LycVE8T0kpotI+LnQMH+rNireA6s4Yt4gWw/UHaZwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAFj4u9VLEpYdYchDXlvTC8hHgRPgF9iH2FOvBu/rVrRmjtA4u/STnwWaSAYxJt4087F1Tk7SZ2MJ4TGRm9bDTCasMz/sWyRGqCN3xCgRveXUwItHDJ9ABVRJxQcd6eKLHClFl28ysDf6QR4xBr+rCcxLslmjuNHODmCbHp1W5vyk</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
