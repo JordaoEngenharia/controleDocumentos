@@ -1,0 +1,81 @@
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.exe.config
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\DAL.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Modelos.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\DAL.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Modelos.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.Properties.Resources.resources
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.exe.config
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\DAL.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Modelos.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\DAL.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Modelos.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.Properties.Resources.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Debug\Bll.application
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Debug\Bll.application
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\Bll.exe.config
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\Bll.exe.manifest
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\Bll.application
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\Bll.exe
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\Bll.pdb
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\DAL.exe
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\Modelos.exe
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\DAL.pdb
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\bin\Debug\Modelos.pdb
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\Bll.Properties.Resources.resources
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\Bll.exe.manifest
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\Bll.application
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\Bll.exe
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\Bll\obj\x86\Debug\Bll.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\Bll.exe.config
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\Bll.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\Bll.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\Bll.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\Bll.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\DAL.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\Modelos.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\DAL.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Debug\Modelos.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\Bll.Properties.Resources.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\Bll.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\Bll.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\Bll.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Debug\Bll.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\Bll.exe
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\Bll.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\Bll.exe.config
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\Bll.exe.manifest
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\Bll.application
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\Bll.exe
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\Bll.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\DAL.exe
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\Modelos.exe
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\DAL.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Debug\Modelos.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\Bll.Properties.Resources.resources
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\Bll.exe.manifest
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Debug\Bll.application

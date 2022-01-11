@@ -1,0 +1,80 @@
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.exe.config
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\DAL.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Modelos.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\DAL.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Modelos.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.Properties.Resources.resources
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.exe.config
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\DAL.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Modelos.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\DAL.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Modelos.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.Properties.Resources.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\bin\Release\Bll.application
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\Bll\obj\x86\Release\Bll.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\Bll.exe.config
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\Bll.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\Bll.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\Bll.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\Bll.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\DAL.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\Modelos.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\DAL.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\bin\Release\Modelos.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\Bll.Properties.Resources.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\Bll.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\Bll.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\Bll.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\Bll\obj\x86\Release\Bll.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\ResolveAssemblyReference.cache
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\GenerateResource.read.1.tlog
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\GenerateResource.write.1.tlog
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\Bll.exe
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\Bll.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\Bll.exe.config
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\Bll.exe.manifest
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\Bll.application
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\Bll.exe
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\Bll.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\DAL.exe
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\Modelos.exe
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\DAL.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\bin\Release\Modelos.pdb
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\Bll.Properties.Resources.resources
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\Bll.exe.manifest
+C:\FILE\PROJETOS\bolinhas\Bll\obj\x86\Release\Bll.application
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\Bll.exe.config
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\Bll.exe.manifest
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\Bll.application
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\Bll.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\Bll.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\DAL.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\Modelos.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\DAL.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\bin\Release\Modelos.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\obj\x86\Release\Bll.csprojResolveAssemblyReference.cache
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\obj\x86\Release\Bll.Properties.Resources.resources
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\obj\x86\Release\Bll.csproj.GenerateResource.Cache
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\obj\x86\Release\Bll.exe.manifest
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\obj\x86\Release\Bll.application
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\obj\x86\Release\Bll.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\Bll\obj\x86\Release\Bll.pdb

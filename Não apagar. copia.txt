@@ -1,0 +1,50 @@
+1 - Aplication
+Assembly name:
+Console
+Consulta
+PopUp
+Painel
+
+
+Assembly Information:
+   Title:
+
+   Console   -   Icone bolinha Blue
+   Consulta  -   Icone bolinha Verde
+   PopUp     -   Icone bolinha Yellow
+   Painel    -   Icone bolinha Orange
+
+file version: 1 0 0 32
+
+
+
+2 - Publish
+Publish Folder Location:
+\\SERVERJORDAO\Suporte\Aplicativos\Bolinha\Console\
+\\SERVERJORDAO\Suporte\Aplicativos\Bolinha\PopUp\
+\\SERVERJORDAO\Suporte\Aplicativos\Bolinha\Consulta\
+\\SERVERJORDAO\Suporte\Aplicativos\Bolinha\Painel\
+
+
+Update:
+\\SERVERJORDAO\Suporte\Aplicativos\Bolinha\Console\
+\\SERVERJORDAO\Grupo\Sala de Reunião\Softwares Jordão\PopUp\
+\\SERVERJORDAO\Suporte\Aplicativos\Bolinha\Consulta\
+\\SERVERJORDAO\Suporte\Aplicativos\Bolinha\Painel\
+
+
+Options:
+Product name:
+Console
+Consulta
+PopUp
+Painel
+
+
+
+3 - Versão
+
+PopUp: 1.0.0.69
+Console: 1.0.0.38
+
+4 - 
