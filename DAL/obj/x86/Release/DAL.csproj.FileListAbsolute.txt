@@ -1,0 +1,71 @@
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\DAL.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\DAL.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\Modelos.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\Modelos.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\DAL.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\DAL.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\Modelos.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\Modelos.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\Bolinha.DAL.Form1.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\DAL.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Release\DAL.application
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Release\DAL.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Release\DAL.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Release\DAL.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Release\DAL.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Release\DAL.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Release\Modelos.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Release\Modelos.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\Bolinha.DAL.Form1.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\DAL.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\DAL.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\DAL.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Release\DAL.pdb
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Release\DAL.exe.config
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Release\DAL.exe.manifest
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Release\DAL.application
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Release\DAL.exe
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Release\DAL.pdb
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Release\Modelos.exe
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Release\Modelos.pdb
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\Bolinha.DAL.Form1.resources
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\DAL.exe.manifest
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\DAL.application
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\DAL.exe
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Release\DAL.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\bin\Release\DAL.exe.config
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\bin\Release\DAL.exe.manifest
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\bin\Release\DAL.application
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\bin\Release\DAL.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\bin\Release\DAL.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\bin\Release\Modelos.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\bin\Release\Modelos.pdb
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\Bolinha.DAL.Form1.resources
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\DAL.exe.manifest
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\DAL.application
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\DAL.exe
+\\SERVERJORDAO\Suporte\Projetos\Bolinha\bolinhas 2013-07-27\DAL\obj\x86\Release\DAL.pdb

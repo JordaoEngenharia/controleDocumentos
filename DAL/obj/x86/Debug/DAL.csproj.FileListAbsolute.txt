@@ -1,0 +1,73 @@
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\DAL.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\DAL.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\Modelos.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\Modelos.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.Properties.Resources.resources
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.exe
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.pdb
+C:\Users\alexandre.silva\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\Bolinha.DAL.Form1.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\DAL.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\DAL.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\Modelos.exe
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\Modelos.pdb
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\Bolinha.DAL.Form1.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.Properties.Resources.resources
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\DAL.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\bin\Debug\DAL.application
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.exe.manifest
+C:\Users\suporte\Documents\Visual Studio 2010\Projects\Bolinhas\DAL\obj\x86\Debug\DAL.application
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\bin\Debug\DAL.exe.manifest
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\bin\Debug\DAL.application
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\bin\Debug\DAL.exe
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\bin\Debug\DAL.pdb
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\bin\Debug\Modelos.exe
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\bin\Debug\Modelos.pdb
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\Bolinha.DAL.Form1.resources
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\DAL.Properties.Resources.resources
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\DAL.exe.manifest
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\DAL.application
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\DAL.exe
+C:\Users\marcio.americo\Documents\Visual Studio 2010\Projects\bolinhas\DAL\obj\x86\Debug\DAL.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Debug\DAL.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Debug\DAL.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Debug\DAL.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Debug\DAL.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Debug\Modelos.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Debug\Modelos.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\Bolinha.DAL.Form1.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\DAL.Properties.Resources.resources
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\DAL.exe.manifest
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\DAL.application
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\DAL.exe
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\obj\x86\Debug\DAL.pdb
+C:\Users\Marcelo.Medeiro\Desktop\bolinhas\DAL\bin\Debug\DAL.exe.config
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Debug\DAL.exe.config
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\DAL.exe
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\DAL.pdb
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Debug\DAL.exe.manifest
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Debug\DAL.application
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Debug\DAL.exe
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Debug\DAL.pdb
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Debug\Modelos.exe
+C:\FILE\PROJETOS\bolinhas\DAL\bin\Debug\Modelos.pdb
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\Bolinha.DAL.Form1.resources
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\DAL.Properties.Resources.resources
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\DAL.exe.manifest
+C:\FILE\PROJETOS\bolinhas\DAL\obj\x86\Debug\DAL.application
